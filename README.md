@@ -1,1 +1,1 @@
-# nlw-setup-ignite
+# NLW-Setup
